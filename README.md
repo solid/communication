@@ -1,21 +1,21 @@
-# twitter-account
-Submit a PR to promote something from the Solid Project Twitter. 
+# Social media used 
+Solid has a [twitter](https://twitter.com/project_solid) and [mastadon](https://mastodon.online/web/accounts/52488) account. 
 
-This uses: https://github.com/solid/twitter
+To make a suggestion to promote something from the Solid social media [submit a pull request to this repository](https://github.com/solid/social-media)
 
 ## The tweets/ folder
 
-To create a new tweet create a new `*.tweet` file in this `tweets/` folder.
+To create a new social media post create a new `*.posts` file in this `posts/` folder.
 
-<kbd>[Create new tweet](../../../new/master/?filename=tweets/<your-path>.tweet)</kbd>
+<kbd>[Create new social media post](../../../new/master/?filename=posts/<your-path>.posts)</kbd>
 
 ## Example
 
-Create a new file `tweets/hello-world.tweet` with the content
+Create a new file `posts/hello-world.post` with the content
 
 > Hello, world!
 
-You can use subfolders, e.g. `tweets/2019-02/hello-world.tweet`, as long as the file is in the `tweets/` folder and has the `.tweet` file extension
+You can use subfolders, e.g. `posts/2019-02/hello-world.post`, as long as the file is in the `posts/` folder and has the `.post` file extension
 
 ## Create a tweet with a twitter poll
 

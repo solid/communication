@@ -12,13 +12,13 @@ The [offcial Solid webinar](https://solidproject.org/events) is called Solid Wor
 
 There is currently an [effort underway](https://github.com/solid/process/issues/218) to record the process under which Solid World is planned. 
 
-# Social media 
+# Social Media 
 Solid has a [twitter](https://twitter.com/project_solid), [mastadon](https://mastodon.online/web/accounts/52488), linkedin, and facebook account. 
 
 Read more on the the [general plan for Solid social media](https://github.com/solid/communication/blob/master/social-media-strategy.md). 
 
 There is currently an [effort underway](https://github.com/solid/process/issues/218) to record the process under which Solid social media content is published. 
 
-## Questions?
+# Questions?
 
 If you have any further questions or suggestions, please [create an issue](https://github.com/solid/communication/issues). 

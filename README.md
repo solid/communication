@@ -1,9 +1,21 @@
-# Social media used 
+This repository is a place to record and co-create Solid communication strategy. 
+
+# Website
+The [official Solid website](https://solidproject.org) is kept up to date using the [agreed process](https://github.com/solid/process#solidprojectorg-website).  
+
+# Newsletter
+The [official Solid newsletter](https://solidproject.org/newsletter) is called This Month in Solid. 
+
+# Webinar
+
+The [offcial Solid webinar](https://solidproject.org/events) is called Solid World and is held on the first Thursday of the month. The general plan for Solid World including the template agenda format and suggestions for future editions can be found here. 
+
+# Social media 
 Solid has a [twitter](https://twitter.com/project_solid) and [mastadon](https://mastodon.online/web/accounts/52488) account. 
 
 To make a suggestion to promote something from the Solid social media [submit a pull request to this repository](https://github.com/solid/social-media)
 
-## The tweets/ folder
+## The solid media posts folder
 
 To create a new social media post create a new `*.posts` file in this `posts/` folder.
 
@@ -38,4 +50,4 @@ A tweet including a poll must end with 2-4 options in the following format
 
 ## Questions?
 
-If you have any further questions or suggestions, please create an issue at https://github.com/gr2m/twitter-together/issues/new
+If you have any further questions or suggestions, please create an issue at 

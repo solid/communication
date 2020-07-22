@@ -8,7 +8,7 @@ The [official Solid newsletter](https://solidproject.org/newsletter) is called T
 
 # Webinar
 
-The [offcial Solid webinar](https://solidproject.org/events) is called Solid World and is held on the first Thursday of the month. The general plan for Solid World including the template agenda format and suggestions for future editions can be found here. 
+The [offcial Solid webinar](https://solidproject.org/events) is called Solid World and is held on the first Thursday of the month. The [general plan for Solid World](https://github.com/solid/communication/blob/master/solid-world-strategy.md) includes a template agenda format and suggestions for future editions. 
 
 # Social media 
 Solid has a [twitter](https://twitter.com/project_solid) and [mastadon](https://mastodon.online/web/accounts/52488) account. 

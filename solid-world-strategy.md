@@ -22,7 +22,10 @@ If we’re thinking about a “multi-episode arc” to Solid World over time, we
 * Media 
 * Travel 
 
-
+## Ideas for Future Editions 
+* August: 
+* September: Solid profile page renderer 
+* October: Solid Labs lightening talks
 
 
 

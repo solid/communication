@@ -6,13 +6,13 @@ Solid World is a webinar held on the first Thursday of every month. Up to date i
 
 ## Solid World Agenda Template
 
-* Introductory Welcome by Mitzi as host and Solid Manager (5-10 minutes)
+* Introductory Welcome by Mitzi as host and Solid Manager
+* Thoughts from TimBL as Solid Director
 * Talks 
 * Panel discussion with Q&A with audience and speakers 
 * This Month in Solid update by Mitzi 
-* Specification progress updates from the Editors (usually Sarven) 
-* Thoughts from TimBL as Solid Director
-* Wrap up by Mitzi 
+* Specification progress updates from Sarven on behalf of the Editors
+* Wrap up by Mitzi including a taster for next months edition of Solid World 
 * 30 minute open conversations between audience
 
 # Themes
@@ -26,10 +26,3 @@ If we’re thinking about a “multi-episode arc” to Solid World over time, we
 * August: 
 * September: Solid profile page renderer 
 * October: Solid Labs lightening talks
-
-
-
-
-
-
-
